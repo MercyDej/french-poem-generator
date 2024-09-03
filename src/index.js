@@ -1,1 +1,1 @@
-alert("God Knows!");
+//alert("God Knows!");
