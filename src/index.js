@@ -1,6 +1,6 @@
 function displayPoem(response) {
   console.log("Poem generated!");
-  console.log(response.data.answer);
+
   new Typewriter("#poem", {
     strings: response.data.answer,
     autoStart: true,
